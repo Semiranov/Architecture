@@ -17,13 +17,13 @@ public class ModelStore implements IModelChangeObserver, IModelChanger {
 
     @Override
     public void NotifyChange() {
-        // TODO Auto-generated method stub
+
 
     }
 
     @Override
     public void ApplyUpdateModel() {
-        // TODO Auto-generated method stub
+
 
     }
 }
